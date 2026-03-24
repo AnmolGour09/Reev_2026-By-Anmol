@@ -15,7 +15,7 @@ import r3 from "../../assets/Nikhil.jpg";
 import r4 from "../../assets/Mahesh.jpg";
 import r5 from "../../assets/Ashish.jpg";
 import r6 from "../../assets/Aditya.jpg"; 
-import r7 from "../../assets/About.jpeg"
+import r7 from "../../assets/About1.jpeg"
 
 // Assets
 
